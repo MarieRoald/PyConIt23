@@ -1,5 +1,7 @@
 # Teaching teachers to teach Python: what have I learned
 
+ * Slides: [[pdf](slides.pdf)]
+
 ## Example teaching materials
 
  * UMC: [[pdf](umc/umc.pdf)], [[markdown](umc/umc.md)]
